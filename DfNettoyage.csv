@@ -1,0 +1,12 @@
+Etapes,Action,NbColonne,NbLigne,PourcentageNaN
+Etape 1,Ouverture du Fichier,162,320772,76
+Etape 2,Suppression des colonnes vides,146,320772,74
+Etape 3,Suppression des lignes vides,146,265302,71
+Etape 4,Etude des Variables Info Générales,139,261822,74
+Etape 5,Etude des Variables Tags + Centrage sur produits vendus en France,121,66822,75
+Etape 6,Etude des Variables Ingrédients,118,66822,75
+Etape 7,Etude des Variables Données Diverses,106,66822,79
+Etape 8,Etude des Variables Données Nutritives,97,66820,78
+Etape 9,Remplissage des Colonnes Textes + Suppression des produits sans groupes PNNS2,91,40003,70
+Etape 10,Création des variables pour l'EnvironnementScore + Recentrage sur les variables utiles au Nutriscore,27,40003,2
+Etape 11,Remplissage des colonnes quantitatives par 0,27,40003,0
