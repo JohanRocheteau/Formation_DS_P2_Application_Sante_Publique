@@ -21,9 +21,10 @@
       ![Heatmap](PhotosReadme/Heatmap.png)
       ![CercleCor](PhotosReadme/CercleCorr.png)
     - Suppression des valeurs abérrantes et des outliers :
-    - ![Outliers](PhotosReadme/Outliers.png) 
+      ![Outliers](PhotosReadme/Outliers.png) 
     - **Idées d'application** : Ajouter au nutriscore un environnementscore pour un produit sain et bon pour l'environnement
     - Divers graphiques :
+      
       ![Pie](PhotosReadme/Pie.png)
     - Différents tests de prédiction du Nutrition Grade via les modèles de ML : **KNN**, **Kmeans**, **Decision Tree** et **Régression Logistic**
     - Etude de mon Environnement Grade en **KMeans**
