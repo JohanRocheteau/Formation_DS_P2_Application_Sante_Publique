@@ -21,8 +21,9 @@
     - Divers graphiques :
       ![Logo1]()
       ![Logo]()
-    - Prédiction du Nutrition Grade via le modèle de ML : **KNN**
-    - 
+    - Différents tests de prédiction du Nutrition Grade via les modèles de ML : **KNN**, **Kmeans**, **Decision Tree** et **Régression Logistic**
+    - Etude de mon Environnement Grade en **KMeans**
+    - Analyse des différents groupes réalisés par le KMeans : **Radar Chart** et analyse statistique par **Tuckey**.
 
 
 
