@@ -11,7 +11,19 @@
     - **Des informations nutritionnelles :** quantité en grammes d’un nutriment pour 100 grammes du produit. 
 - **Mission :** Trouver une idée innovante d’application en lien avec l'alimentation.
 
-## Réalisations :**
+## Réalisations :
+- **Librairies principales :** Pandas, Numpy, Seaborn, Matplotlib, tqdm, Random, missingno, scipy, MinMaxScaler...
+- **Etapes réalisées :**
+    - Ouverture des données.
+    - Analyse des données (NaNs (Missingno) et autres informations générales).
+    - Choix des variables et des lignes en fonction de l'objectif et du remplissage (Pays, type de nutriment ou d'additifs)
+    - **Idées d'application** : Ajouter au nutriscore un environnementscore pour un produit sain et bon pour l'environnement
+    - Divers graphiques :
+      ![Logo1]()
+      ![Logo]()
+    - Prédiction du Nutrition Grade via le modèle de ML : **KNN**
+    - 
+
 
 
 
