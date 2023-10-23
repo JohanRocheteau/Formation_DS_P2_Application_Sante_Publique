@@ -21,7 +21,7 @@
       ![Heatmap](PhotosReadme/Heatmap.png)
       ![CercleCor](PhotosReadme/CercleCorr.png)
     - Suppression des valeurs abérrantes et des outliers :
-    - ![Outliers](PhotosReadme/Heatmap.png) 
+    - ![Outliers](PhotosReadme/Outliers.png) 
     - **Idées d'application** : Ajouter au nutriscore un environnementscore pour un produit sain et bon pour l'environnement
     - Divers graphiques :
       ![Pie](PhotosReadme/Pie.png)
