@@ -16,13 +16,13 @@
 - **Etapes réalisées :**
     - Ouverture des données.
     - Analyse des données (NaNs (Missingno) et autres informations générales).
-    - Choix des variables et des lignes en fonction de l'objectif et du remplissage (Pays, type de nutriment ou d'additifs) puis étude de la corrélation entre les variables :
+    - Choix des variables et des lignes en fonction de l'objectif et du remplissage (pays, type de nutriment ou d'additifs) puis étude de la corrélation entre les variables :
       ![Corrélation](PhotosReadme/Correlation.png)
       ![Heatmap](PhotosReadme/Heatmap.png)
       ![CercleCor](PhotosReadme/CercleCorr.png)
-    - Suppression des valeurs abérrantes et des outliers :
+    - Suppression des valeurs aberrantes et des outliers :
       ![Outliers](PhotosReadme/Outliers.png) 
-    - **Idées d'application** : Ajouter au nutriscore un environnementscore pour un produit sain et bon pour l'environnement
+    - **Idée d'application** : Ajouter au nutriscore un environnementscore pour un produit sain et bon pour l'environnement
     - Divers graphiques :
       
       ![Pie](PhotosReadme/Pie.png)
